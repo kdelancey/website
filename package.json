@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kdelancey/website/issues"
   },
-  "homepage": "https://github.com/kdelancey/website#readme"
+  "homepage": "https://github.com/kdelancey/website#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
 }
